@@ -1,0 +1,70 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Gzip",
+        "repositoryURL": "https://github.com/yonihemi/GzipSwift",
+        "state": {
+          "branch": "swiftwasm",
+          "revision": "ff2b26dd851b1f5fb4a3db85f6dbb8cf73f231f3",
+          "version": null
+        }
+      },
+      {
+        "package": "JavaScriptKit",
+        "repositoryURL": "https://github.com/swiftwasm/JavaScriptKit.git",
+        "state": {
+          "branch": null,
+          "revision": "b7a02434c6e973c08c3fd5069105ef44dd82b891",
+          "version": "0.9.0"
+        }
+      },
+      {
+        "package": "OpenCombine",
+        "repositoryURL": "https://github.com/TokamakUI/OpenCombine.git",
+        "state": {
+          "branch": null,
+          "revision": "bccff3e7c84bc559e1aa0aa9ca878400360d439d",
+          "version": "0.12.0-alpha2"
+        }
+      },
+      {
+        "package": "OpenCombineJS",
+        "repositoryURL": "https://github.com/swiftwasm/OpenCombineJS.git",
+        "state": {
+          "branch": null,
+          "revision": "b346f955ed21ab44576e204a7554210c77f69b9b",
+          "version": "0.0.1"
+        }
+      },
+      {
+        "package": "Runtime",
+        "repositoryURL": "https://github.com/MaxDesiatov/Runtime.git",
+        "state": {
+          "branch": null,
+          "revision": "a617ead8a125a97e69d6100e4d27922006e82e0a",
+          "version": "2.1.2"
+        }
+      },
+      {
+        "package": "SwiftWasmZlib",
+        "repositoryURL": "https://github.com/yonihemi/swiftwasm-zlib",
+        "state": {
+          "branch": null,
+          "revision": "e83b30c209607cf76eecf0863c4d22d3731bde5b",
+          "version": "0.1.0"
+        }
+      },
+      {
+        "package": "Tokamak",
+        "repositoryURL": "https://github.com/TokamakUI/Tokamak",
+        "state": {
+          "branch": "main",
+          "revision": "99581929a2a4b163688c90c5dc7eeb028a55f7d7",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
