@@ -1,6 +1,6 @@
 # SwiftWasm gzip/zlib Example
 
-Sample app for [swiftwasm-gzip](https://github.com/yonihemi/swiftwasm-zlib).
+Sample app for [swiftwasm-zlib](https://github.com/yonihemi/swiftwasm-zlib).
 
 # Running
 
